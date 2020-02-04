@@ -11,7 +11,7 @@ The jar Kafkahdfs has one entrypoint the TypeOfFIle representing the type of fil
 The jar QuerySabd has two main entrypoint, first for the type of query to execute(4 for all query) and the other for the type of format(0 for csv,1 for avro and 2 for parquet).
 The jar Hbase has one two entrypoint, one for the type of query(4 for all) and one for the number of Hadoop supervisor.
 
-###Step for running jars
+### Step for running jars
 
 1)In order to launch the app you need to start the transfDataset.sh(for transfer file by local pc to ec2 machine) and specyfing three parameters:
         1)hadoop emr address
