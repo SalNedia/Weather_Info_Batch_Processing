@@ -1,0 +1,13 @@
+Query city mean time(s): 5.7
+Query 1 mean time(s): 3.9
+Query 2 mean time(s): 14.2
+Query 3 mean time(s): 3.2
+Query final mean time(s): 28.8
+Query 2 sql mean time(s): NaN
+******************
+Query city dev time(s): 1.5524175
+Query 1 dev time(s): 0.53851646
+Query 2 dev time(s): 0.6
+Query 3 dev time(s): 0.4
+Query final dev time(s): 2.521904
+Query 2 sql dev time(s): NaN

@@ -1,0 +1,10 @@
+{"namespace": "utils",
+  "type": "record",
+  "name": "cityAttributes",
+  "version": "1",
+  "fields": [
+ 	{"name": "City", "type": "string"},
+ 	{"name": "Latitude", "type": "string"},
+ 	{"name": "Longitude", "type": "string"}
+ 	]
+ }
