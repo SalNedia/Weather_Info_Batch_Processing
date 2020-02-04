@@ -1,0 +1,3 @@
+Hbase mean time(s): NaN
+******************
+Hbase dev time(s): NaN

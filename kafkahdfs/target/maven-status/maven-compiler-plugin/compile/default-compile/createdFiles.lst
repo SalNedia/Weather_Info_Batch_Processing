@@ -1,0 +1,13 @@
+TimeUtils.class
+parquetUtils/Utils$1.class
+parquetUtils/ConvertUtils.class
+avroUtils/CsvToAvroGenericWriter.class
+avroUtils/CsvToAvroConverter.class
+ConsumerKafka.class
+Main.class
+parquetUtils/CsvWriteSupport$1.class
+parquetUtils/CsvWriteSupport.class
+ProducerKafka.class
+HDFSUtils.class
+parquetUtils/CsvParquetWriter.class
+parquetUtils/Utils.class

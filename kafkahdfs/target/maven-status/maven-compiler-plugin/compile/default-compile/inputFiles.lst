@@ -1,0 +1,11 @@
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/parquetUtils/Utils.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/parquetUtils/CsvParquetWriter.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/parquetUtils/ConvertUtils.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/parquetUtils/CsvWriteSupport.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/avroUtils/CsvToAvroGenericWriter.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/ProducerKafka.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/ConsumerKafka.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/HDFSUtils.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/TimeUtils.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/Main.java
+/home/giuseppe/Scaricati/kafkahdfs/src/main/java/avroUtils/CsvToAvroConverter.java
