@@ -7,7 +7,7 @@ First of all you need to start the vpcConfigFinal.py script by specifing AWS_ACC
 Then you need to create Hadoop Cluster with Amazon Emr by specifing the vpc network created before.
 Before the building the jar you need to change hdfs address in the files and the kafka address in ProducerKafka and ConsumerKafka in the properties bootstrap server(for Kafka application).
 
-- The jar Kafkahdfs has one entrypoint the TypeOfFIle representing the type of file you want to ingest.
+- The jar Kafkahdfs has one entrypoint the TypeOfFIle representing the type of file you want to ingest (0 for csv,1 for avro and 2 for parquet).
 - The jar QuerySabd has two main entrypoints, first for the type of query to execute(4 for all query) and the other for the type of format(0 for csv,1 for avro and 2 for parquet).
 - The jar Hbase has two entrypoints, one for the type of query (4 for all) and one for the number of Hadoop supervisor.
 
